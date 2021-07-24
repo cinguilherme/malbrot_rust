@@ -1,4 +1,5 @@
 ### Rust Studies Program - Malbrot image
+- reference: Programming Rust book examples
 
 
 - build and generate image
